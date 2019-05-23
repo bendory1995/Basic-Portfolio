@@ -70,3 +70,6 @@ p2{
     margin-top: 0em;
     margin-bottom: 2em;
 }
+form{
+    line-height: 25px;
+}
